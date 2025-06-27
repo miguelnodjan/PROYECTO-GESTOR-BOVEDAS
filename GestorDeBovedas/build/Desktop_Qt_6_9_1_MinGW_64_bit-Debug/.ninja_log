@@ -1,0 +1,22 @@
+# ninja log v6
+132	750	7726921261497704	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/timestamp	f5f11897f0a84337
+10	124	7726921260272102	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
+132	750	7726921261497704	GestorDeBovedas_autogen/timestamp	f5f11897f0a84337
+1953	4140	7726916883155044	CMakeFiles/GestorDeBovedas.dir/GestorDeBovedas_autogen/mocs_compilation.cpp.obj	fc7e04fd2d65c4be
+132	750	7726921261497704	GestorDeBovedas_autogen/mocs_compilation.cpp	f5f11897f0a84337
+751	3056	7726921267675767	CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj	8c6a39361e3c973e
+132	750	7726921261497704	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/mocs_compilation.cpp	f5f11897f0a84337
+2055	4270	7726916884170438	CMakeFiles/GestorDeBovedas.dir/main.cpp.obj	3f0a5681311e79db
+3056	4619	7726921290733280	GestorDeBovedas.exe	2ebc4129fb968f12
+145	1287	7726944554601435	build.ninja	369e9ad0dde79f6b
+30	192	7726945602972051	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
+210	844	7726945604756120	GestorDeBovedas_autogen/timestamp	f5f11897f0a84337
+210	844	7726945604756120	GestorDeBovedas_autogen/mocs_compilation.cpp	f5f11897f0a84337
+210	844	7726945604756120	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/timestamp	f5f11897f0a84337
+210	844	7726945604756120	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/mocs_compilation.cpp	f5f11897f0a84337
+847	3827	7726945611127689	CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj	8c6a39361e3c973e
+3827	5610	7726945640937276	GestorDeBovedas.exe	2ebc4129fb968f12
+22	162	7726947485210875	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
+13	152	7726947542462002	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
+12	154	7726947659086150	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
+12	170	7726947876952033	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	d32a038bb9732711
