@@ -3,26 +3,54 @@
 
 #include <string>
 #include <map>
-#include "TipoOperacion.h"
+#include <ctime>
+#include "Constantes.h"
+
+using namespace std;
+
+enum class TipoOperacion {
+    ENTREGA,
+    RECOJO,
+    TRASLADO,
+    CANJE,
+    PAGO,
+    DEPOSITO,
+    RETIRO
+};
 
 class Operacion {
 private:
-    std::string fecha;
+    string id;
+    string fecha;
     TipoOperacion tipo;
-    std::string origen;
-    std::string destino;
-    std::string plaza;
-    std::string transportadora;
-    std::map<int, int> denominaciones;
+    string origen;
+    string destino;
+    string plaza;
+    string transportadora;
+    map<int, int> denominaciones;
+    string moneda;
+    string monedaDestino;
 
 public:
-    Operacion(const std::string& fecha, TipoOperacion tipo,
-              const std::string& origen, const std::string& destino,
-              const std::string& plaza, const std::string& transportadora);
+    Operacion(const string& id, TipoOperacion tipo, const string& origen,
+              const string& destino, const string& plaza, const string& transportadora,
+              const string& moneda, const string& monedaDestino = "");
 
     void agregarDenominacion(int valor, int cantidad);
     double calcularMonto() const;
-    void mostrarResumen() const;
+    string tipoToString() const;
+
+    // Getters
+    string getId() const;
+    string getFecha() const;
+    TipoOperacion getTipo() const;
+    string getOrigen() const;
+    string getDestino() const;
+    string getPlaza() const;
+    string getTransportadora() const;
+    const map<int, int>& getDenominaciones() const;
+    string getMoneda() const;
+    string getMonedaDestino() const;
 };
 
-#endif
+#endif // OPERACION_H

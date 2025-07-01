@@ -356,6 +356,36 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Banco.h",
+			"MU",
+			"EWIEGA46WW/moc_Banco.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Boveda.h",
+			"MU",
+			"EWIEGA46WW/moc_Boveda.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Constantes.h",
+			"MU",
+			"EWIEGA46WW/moc_Constantes.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Filtro.h",
+			"MU",
+			"EWIEGA46WW/moc_Filtro.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.h",
+			"MU",
+			"EWIEGA46WW/moc_ListadoOperaciones.cpp",
+			null
+		],
+		[
 			"C:/Users/migue/Documents/GestorDeBovedas/Operacion.h",
 			"MU",
 			"EWIEGA46WW/moc_Operacion.cpp",
@@ -368,9 +398,21 @@
 			null
 		],
 		[
-			"C:/Users/migue/Documents/GestorDeBovedas/SistemaGestorOperaciones.h",
+			"C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.h",
 			"MU",
-			"EWIEGA46WW/moc_SistemaGestorOperaciones.cpp",
+			"EWIEGA46WW/moc_RegistroOperacion.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Sede.h",
+			"MU",
+			"EWIEGA46WW/moc_Sede.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.h",
+			"MU",
+			"EWIEGA46WW/moc_SistemaGestor.cpp",
 			null
 		],
 		[
@@ -386,9 +428,15 @@
 			null
 		],
 		[
-			"C:/Users/migue/Documents/GestorDeBovedas/banco.h",
+			"C:/Users/migue/Documents/GestorDeBovedas/consultacapital.h",
 			"MU",
-			"EWIEGA46WW/moc_banco.cpp",
+			"EWIEGA46WW/moc_consultacapital.cpp",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/detallesoperacion.h",
+			"MU",
+			"EWIEGA46WW/moc_detallesoperacion.cpp",
 			null
 		],
 		[
@@ -469,6 +517,42 @@
 	"SETTINGS_FILE" : "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/GestorDeBovedas_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Banco.cpp", "MU", null ],
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Boveda.cpp", "MU", null ],
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Constantes.cpp", "MU", null ],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/ConsultaCapital.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/DetallesOperacion.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Filtros.cpp", "MU", null ],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Operacion.cpp", "MU", null ],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.cpp",
+			"MU",
+			null
+		],
+		[ "C:/Users/migue/Documents/GestorDeBovedas/Sede.cpp", "MU", null ],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/migue/Documents/GestorDeBovedas/Transportadora.cpp",
+			"MU",
+			null
+		],
 		[ "C:/Users/migue/Documents/GestorDeBovedas/main.cpp", "MU", null ],
 		[ "C:/Users/migue/Documents/GestorDeBovedas/mainwindow.cpp", "MU", null ]
 	],

@@ -73,6 +73,102 @@ build CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj: CXX_COMPILER__GestorDeB
   OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
   OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
 
+build CMakeFiles/GestorDeBovedas.dir/Boveda.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Boveda.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Boveda.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Sede.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Sede.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Sede.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Banco.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Banco.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Banco.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Transportadora.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Transportadora.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Transportadora.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/SistemaGestor.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\SistemaGestor.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/ConsultaCapital.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/ConsultaCapital.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\ConsultaCapital.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Constantes.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Constantes.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Constantes.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Operacion.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Operacion.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Operacion.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/RegistroOperacion.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\RegistroOperacion.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/ListadoOperaciones.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\ListadoOperaciones.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/Filtros.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/Filtros.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\Filtros.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
+build CMakeFiles/GestorDeBovedas.dir/DetallesOperacion.cpp.obj: CXX_COMPILER__GestorDeBovedas_unscanned_Debug C$:/Users/migue/Documents/GestorDeBovedas/DetallesOperacion.cpp || cmake_object_order_depends_target_GestorDeBovedas
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\GestorDeBovedas.dir\DetallesOperacion.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -IC:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include -isystem C:/Qt/6.9.1/mingw_64/include/QtCore -isystem C:/Qt/6.9.1/mingw_64/include -isystem C:/Qt/6.9.1/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.9.1/mingw_64/include/QtWidgets -isystem C:/Qt/6.9.1/mingw_64/include/QtGui
+  OBJECT_DIR = CMakeFiles\GestorDeBovedas.dir
+  OBJECT_FILE_DIR = CMakeFiles\GestorDeBovedas.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target GestorDeBovedas
@@ -81,7 +177,7 @@ build CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj: CXX_COMPILER__GestorDeB
 #############################################
 # Link the executable GestorDeBovedas.exe
 
-build GestorDeBovedas.exe: CXX_EXECUTABLE_LINKER__GestorDeBovedas_Debug CMakeFiles/GestorDeBovedas.dir/GestorDeBovedas_autogen/mocs_compilation.cpp.obj CMakeFiles/GestorDeBovedas.dir/main.cpp.obj CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj | C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a || GestorDeBovedas_autogen GestorDeBovedas_autogen_timestamp_deps
+build GestorDeBovedas.exe: CXX_EXECUTABLE_LINKER__GestorDeBovedas_Debug CMakeFiles/GestorDeBovedas.dir/GestorDeBovedas_autogen/mocs_compilation.cpp.obj CMakeFiles/GestorDeBovedas.dir/main.cpp.obj CMakeFiles/GestorDeBovedas.dir/mainwindow.cpp.obj CMakeFiles/GestorDeBovedas.dir/Boveda.cpp.obj CMakeFiles/GestorDeBovedas.dir/Sede.cpp.obj CMakeFiles/GestorDeBovedas.dir/Banco.cpp.obj CMakeFiles/GestorDeBovedas.dir/Transportadora.cpp.obj CMakeFiles/GestorDeBovedas.dir/SistemaGestor.cpp.obj CMakeFiles/GestorDeBovedas.dir/ConsultaCapital.cpp.obj CMakeFiles/GestorDeBovedas.dir/Constantes.cpp.obj CMakeFiles/GestorDeBovedas.dir/Operacion.cpp.obj CMakeFiles/GestorDeBovedas.dir/RegistroOperacion.cpp.obj CMakeFiles/GestorDeBovedas.dir/ListadoOperaciones.cpp.obj CMakeFiles/GestorDeBovedas.dir/Filtros.cpp.obj CMakeFiles/GestorDeBovedas.dir/DetallesOperacion.cpp.obj | C$:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a C$:/Qt/6.9.1/mingw_64/lib/libQt6Core.a C$:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a || GestorDeBovedas_autogen GestorDeBovedas_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.9.1/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Gui.a  C:/Qt/6.9.1/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.9.1/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -ld3d11  -ldxgi  -ldxguid  -ld3d12  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
@@ -168,7 +264,7 @@ build GestorDeBovedas_autogen_timestamp_deps: phony
 #############################################
 # Utility command for GestorDeBovedas_autogen
 
-build GestorDeBovedas_autogen: phony CMakeFiles/GestorDeBovedas_autogen GestorDeBovedas_autogen/include/ui_mainwindow.h GestorDeBovedas_autogen/include/ui_listaOperaciones.h GestorDeBovedas_autogen/include/ui_registrooperacion.h GestorDeBovedas_autogen/include/ui_filtros.h GestorDeBovedas_autogen/timestamp GestorDeBovedas_autogen/mocs_compilation.cpp GestorDeBovedas_autogen_timestamp_deps
+build GestorDeBovedas_autogen: phony CMakeFiles/GestorDeBovedas_autogen GestorDeBovedas_autogen/include/ui_mainwindow.h GestorDeBovedas_autogen/include/ui_listadooperaciones.h GestorDeBovedas_autogen/include/ui_registrooperacion.h GestorDeBovedas_autogen/include/ui_filtros.h GestorDeBovedas_autogen/include/ui_consultacapital.h GestorDeBovedas_autogen/include/ui_detallesoperacion.h GestorDeBovedas_autogen/timestamp GestorDeBovedas_autogen/mocs_compilation.cpp GestorDeBovedas_autogen_timestamp_deps
 
 
 #############################################
@@ -185,7 +281,7 @@ build GestorDeBovedas_autogen/timestamp GestorDeBovedas_autogen/mocs_compilation
 #############################################
 # Phony custom command for CMakeFiles\GestorDeBovedas_autogen
 
-build CMakeFiles/GestorDeBovedas_autogen GestorDeBovedas_autogen/include/ui_mainwindow.h GestorDeBovedas_autogen/include/ui_listaOperaciones.h GestorDeBovedas_autogen/include/ui_registrooperacion.h GestorDeBovedas_autogen/include/ui_filtros.h | ${cmake_ninja_workdir}CMakeFiles/GestorDeBovedas_autogen ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_listaOperaciones.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_registrooperacion.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_filtros.h: phony GestorDeBovedas_autogen/timestamp || GestorDeBovedas_autogen_timestamp_deps
+build CMakeFiles/GestorDeBovedas_autogen GestorDeBovedas_autogen/include/ui_mainwindow.h GestorDeBovedas_autogen/include/ui_listadooperaciones.h GestorDeBovedas_autogen/include/ui_registrooperacion.h GestorDeBovedas_autogen/include/ui_filtros.h GestorDeBovedas_autogen/include/ui_consultacapital.h GestorDeBovedas_autogen/include/ui_detallesoperacion.h | ${cmake_ninja_workdir}CMakeFiles/GestorDeBovedas_autogen ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_mainwindow.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_listadooperaciones.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_registrooperacion.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_filtros.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_consultacapital.h ${cmake_ninja_workdir}GestorDeBovedas_autogen/include/ui_detallesoperacion.h: phony GestorDeBovedas_autogen/timestamp || GestorDeBovedas_autogen_timestamp_deps
 
 # =============================================================================
 # Target aliases.

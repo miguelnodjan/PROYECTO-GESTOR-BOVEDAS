@@ -1,19 +1,28 @@
-#ifndef TRANSPORTADORA_H
-#define TRANSPORTADORA_H
+#ifndef ENTIDAD_BANCARIA_H
+#define ENTIDAD_BANCARIA_H
 
+#include "Sede.h"
 #include <string>
 #include <vector>
-#include "Operacion.h"
 
-class Transportadora {
+using namespace std;
+
+class EntidadBancaria {
 private:
-    std::string nombre;
-    std::vector<Operacion> operaciones;
+    string nombre;
+    string codigo;
+    vector<Sede> sedes;
 
 public:
-    Transportadora(const std::string& nombre);
-    void registrarOperacion(const Operacion& op);
-    void listarOperaciones() const;
+    EntidadBancaria(const string& nombre, const string& codigo);
+
+    void agregarSede(const string& codigo, const string& ubicacion, const string& moneda);
+    Sede* buscarSede(const string& codigo);
+    const vector<Sede>& getSedes() const;
+    string getNombre() const;
+    string getCodigo() const;
+    double getCapitalTotal(const string& moneda = "USD") const;
+    void mostrarInfo() const;
 };
 
-#endif
+#endif // ENTIDAD_BANCARIA_H

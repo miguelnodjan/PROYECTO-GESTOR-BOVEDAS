@@ -150,7 +150,9 @@ GestorDeBovedas_autogen/timestamp: \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qtransform.h \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs.h \
 	C:/Qt/6.9.1/mingw_64/include/QtGui/qwindowdefs_win.h \
+	C:/Qt/6.9.1/mingw_64/include/QtWidgets/QDialog \
 	C:/Qt/6.9.1/mingw_64/include/QtWidgets/QMainWindow \
+	C:/Qt/6.9.1/mingw_64/include/QtWidgets/qdialog.h \
 	C:/Qt/6.9.1/mingw_64/include/QtWidgets/qmainwindow.h \
 	C:/Qt/6.9.1/mingw_64/include/QtWidgets/qsizepolicy.h \
 	C:/Qt/6.9.1/mingw_64/include/QtWidgets/qtabwidget.h \
@@ -583,21 +585,46 @@ GestorDeBovedas_autogen/timestamp: \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/time.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/vadefs.h \
 	C:/Qt/Tools/mingw1310_64/x86_64-w64-mingw32/include/wchar.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Banco.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/Banco.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Boveda.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/Boveda.h \
 	C:/Users/migue/Documents/GestorDeBovedas/CMakeLists.txt \
+	C:/Users/migue/Documents/GestorDeBovedas/Constantes.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/Constantes.h \
+	C:/Users/migue/Documents/GestorDeBovedas/ConsultaCapital.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/DetallesOperacion.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/Filtro.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Filtros.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Operacion.cpp \
 	C:/Users/migue/Documents/GestorDeBovedas/Operacion.h \
 	C:/Users/migue/Documents/GestorDeBovedas/Plaza.h \
-	C:/Users/migue/Documents/GestorDeBovedas/SistemaGestorOperaciones.h \
+	C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Sede.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/Sede.h \
+	C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.cpp \
+	C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.h \
 	C:/Users/migue/Documents/GestorDeBovedas/TipoOperacion.h \
+	C:/Users/migue/Documents/GestorDeBovedas/Transportadora.cpp \
 	C:/Users/migue/Documents/GestorDeBovedas/Transportadora.h \
-	C:/Users/migue/Documents/GestorDeBovedas/banco.h \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/.qtc/package-manager/maintenance_tool_provider.cmake \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeCXXCompiler.cmake \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeRCCompiler.cmake \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CMakeSystem.cmake \
 	C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/moc_predefs.h \
+	C:/Users/migue/Documents/GestorDeBovedas/consultacapital.h \
+	C:/Users/migue/Documents/GestorDeBovedas/detallesoperacion.h \
 	C:/Users/migue/Documents/GestorDeBovedas/main.cpp \
 	C:/Users/migue/Documents/GestorDeBovedas/mainwindow.cpp \
 	C:/Users/migue/Documents/GestorDeBovedas/mainwindow.h \
+	C:/Users/migue/Documents/GestorDeBovedas/consultacapital.ui \
+	C:/Users/migue/Documents/GestorDeBovedas/detallesOperacion.ui \
+	C:/Users/migue/Documents/GestorDeBovedas/filtros.ui \
+	C:/Users/migue/Documents/GestorDeBovedas/listadooperaciones.ui \
 	C:/Users/migue/Documents/GestorDeBovedas/mainwindow.ui \
+	C:/Users/migue/Documents/GestorDeBovedas/registrooperacion.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

@@ -41,7 +41,24 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/migue/Documents/GestorDeBovedas/*.cpp")
 set(OLD_GLOB
+  "C:/Users/migue/Documents/GestorDeBovedas/Banco.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Boveda.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Constantes.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/ConsultaCapital.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/DetallesOperacion.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Filtros.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Operacion.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Sede.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/Transportadora.cpp"
   "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/3.30.5/CompilerIdCXX/CMakeCXXCompilerId.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_Filtro.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_ListadoOperaciones.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_RegistroOperacion.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_consultacapital.cpp"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_detallesoperacion.cpp"
   "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/EWIEGA46WW/moc_mainwindow.cpp"
   "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/mocs_compilation.cpp"
   "C:/Users/migue/Documents/GestorDeBovedas/main.cpp"
@@ -64,14 +81,27 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/migue/Documents/GestorDeBovedas/*.h")
 set(OLD_GLOB
+  "C:/Users/migue/Documents/GestorDeBovedas/Banco.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/Boveda.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/Constantes.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/Filtro.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/ListadoOperaciones.h"
   "C:/Users/migue/Documents/GestorDeBovedas/Operacion.h"
   "C:/Users/migue/Documents/GestorDeBovedas/Plaza.h"
-  "C:/Users/migue/Documents/GestorDeBovedas/SistemaGestorOperaciones.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/RegistroOperacion.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/Sede.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/SistemaGestor.h"
   "C:/Users/migue/Documents/GestorDeBovedas/TipoOperacion.h"
   "C:/Users/migue/Documents/GestorDeBovedas/Transportadora.h"
-  "C:/Users/migue/Documents/GestorDeBovedas/banco.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_consultacapital.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_detallesoperacion.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_filtros.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_listadooperaciones.h"
   "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_mainwindow.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/include/ui_registrooperacion.h"
   "C:/Users/migue/Documents/GestorDeBovedas/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/GestorDeBovedas_autogen/moc_predefs.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/consultacapital.h"
+  "C:/Users/migue/Documents/GestorDeBovedas/detallesoperacion.h"
   "C:/Users/migue/Documents/GestorDeBovedas/mainwindow.h"
   )
 if(NOT "${NEW_GLOB}" STREQUAL "${OLD_GLOB}")
@@ -173,8 +203,10 @@ endif()
 # _directory_contents at C:/Qt/6.9.1/mingw_64/lib/cmake/Qt6LinguistTools/Qt6LinguistToolsMacros.cmake:55 (file)
 file(GLOB_RECURSE NEW_GLOB LIST_DIRECTORIES false "C:/Users/migue/Documents/GestorDeBovedas/*.ui")
 set(OLD_GLOB
+  "C:/Users/migue/Documents/GestorDeBovedas/consultacapital.ui"
+  "C:/Users/migue/Documents/GestorDeBovedas/detallesOperacion.ui"
   "C:/Users/migue/Documents/GestorDeBovedas/filtros.ui"
-  "C:/Users/migue/Documents/GestorDeBovedas/listaOperaciones.ui"
+  "C:/Users/migue/Documents/GestorDeBovedas/listadooperaciones.ui"
   "C:/Users/migue/Documents/GestorDeBovedas/mainwindow.ui"
   "C:/Users/migue/Documents/GestorDeBovedas/registrooperacion.ui"
   )

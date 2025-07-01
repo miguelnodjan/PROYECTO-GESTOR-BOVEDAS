@@ -1,19 +1,28 @@
-#ifndef ENTIDAD_BANCARIA_H
-#define ENTIDAD_BANCARIA_H
+#ifndef TRANSPORTADORA_H
+#define TRANSPORTADORA_H
 
 #include <string>
 #include <vector>
+#include <map>
+#include "Constantes.h"
 
-class EntidadBancaria {
+using namespace std;
+
+class Transportadora {
 private:
-    std::string nombre;
-    std::vector<std::string> bovedas;
+    string nombre;
+    string codigo;
+    map<string, map<int, int>> efectivoTransportado; // moneda -> (valor -> cantidad)
+    vector<string> operacionesRealizadas;
 
 public:
-    EntidadBancaria(const std::string& nombre);
-    void agregarBoveda(const std::string& nombreBoveda);
-    bool contieneBoveda(const std::string& nombreBoveda) const;
-    void mostrarBovedas() const;
+    Transportadora(const string& nombre, const string& codigo);
+
+    void registrarTransporte(const string& operacionId, const map<int, int>& denominaciones, const string& moneda);
+    double getCapitalTransportado(const string& moneda = "USD") const;
+    string getNombre() const;
+    string getCodigo() const;
+    void mostrarInfo() const;
 };
 
-#endif
+#endif // TRANSPORTADORA_H

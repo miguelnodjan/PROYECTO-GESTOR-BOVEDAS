@@ -26,15 +26,37 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(GestorDeBovedas
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
-        listaOperaciones.ui
+        listadooperaciones.ui
         TipoOperacion.h
         Operacion.h
         Banco.h
         Transportadora.h
         Plaza.h
-        SistemaGestorOperaciones.h
+        SistemaGestor.h
         registrooperacion.ui
         filtros.ui
+        Boveda.h
+        Sede.h
+        Constantes.h
+        Boveda.cpp
+        Sede.cpp
+        Banco.cpp
+        Transportadora.cpp
+        SistemaGestor.cpp
+        consultacapital.h
+        ConsultaCapital.cpp
+        Constantes.cpp
+        Operacion.cpp
+        RegistroOperacion.h
+        RegistroOperacion.h
+        RegistroOperacion.cpp
+        ListadoOperaciones.cpp
+        ListadoOperaciones.h
+        Filtro.h
+        Filtros.cpp
+        DetallesOperacion.h
+        DetallesOperacion.cpp
+        consultacapital.ui detallesOperacion.ui
 
     )
 # Define target properties for Android with Qt 6 as:
